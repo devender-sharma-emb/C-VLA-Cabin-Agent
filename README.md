@@ -1,3 +1,6 @@
+## Paper
+Preprint: https://doi.org/10.5281/zenodo.20102631
+
 # C-VLA: Hierarchical Vision-Language-Action Architecture for In-Cabin Agentic AI
 
 A hierarchical two-brain architecture for energy-efficient driver monitoring on automotive edge hardware.
