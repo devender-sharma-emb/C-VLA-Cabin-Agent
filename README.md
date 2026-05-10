@@ -16,6 +16,10 @@ A hierarchical two-brain architecture for energy-efficient driver monitoring on 
 - DMD (Driver Monitoring Dataset) — 6,405 labeled frames
 - 20 in-house recorded behavioral clips
 
+## Model Weights
+Pre-trained System 1 CNN gatekeeper available on HuggingFace:
+https://huggingface.co/devvender/cvla-cnn-gatekeeper
+
 ## Files
 - cabin_agent_v4.py — Full pipeline: camera + ViT gate + Llama reasoning
 - train_cnn_jetson.py — System 1 CNN training on Jetson CUDA
