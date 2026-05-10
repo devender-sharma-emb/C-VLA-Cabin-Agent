@@ -1,0 +1,21 @@
+frame,system,s1_latency_ms,total_latency_ms,confidence,date,device
+0,1,321,321,0.746,2026-05-09,MacBook M3 mps
+1,1,27,27,0.973,2026-05-09,MacBook M3 mps
+2,1,26,26,0.973,2026-05-09,MacBook M3 mps
+3,1,29,29,0.965,2026-05-09,MacBook M3 mps
+4,1,29,29,0.953,2026-05-09,MacBook M3 mps
+5,1,27,27,0.957,2026-05-09,MacBook M3 mps
+6,1,25,25,0.961,2026-05-09,MacBook M3 mps
+7,1,30,30,0.957,2026-05-09,MacBook M3 mps
+8,1,27,27,0.949,2026-05-09,MacBook M3 mps
+9,1,26,26,0.955,2026-05-09,MacBook M3 mps
+10,1,28,28,0.935,2026-05-09,MacBook M3 mps
+11,1,26,26,0.942,2026-05-09,MacBook M3 mps
+12,1,26,26,0.939,2026-05-09,MacBook M3 mps
+13,1,29,29,0.927,2026-05-09,MacBook M3 mps
+14,1,31,31,0.938,2026-05-09,MacBook M3 mps
+15,1,28,28,0.918,2026-05-09,MacBook M3 mps
+16,1,31,31,0.921,2026-05-09,MacBook M3 mps
+17,1,27,27,0.931,2026-05-09,MacBook M3 mps
+18,1,28,28,0.903,2026-05-09,MacBook M3 mps
+19,1,26,26,0.905,2026-05-09,MacBook M3 mps

@@ -1,0 +1,20 @@
+{"clip_id": "normal_driving_1", "file": "data/clips/normal_driving_1.mp4", "label": "simple", "description": "normal driving, looking forward", "split": "train"}
+{"clip_id": "normal_driving_2", "file": "data/clips/normal_driving_2.mp4", "label": "simple", "description": "normal driving, relaxed", "split": "train"}
+{"clip_id": "normal_driving_3", "file": "data/clips/normal_driving_3.mp4", "label": "simple", "description": "mirror check, normal behavior", "split": "train"}
+{"clip_id": "normal_driving_4", "file": "data/clips/normal_driving_4.mp4", "label": "simple", "description": "hands on wheel, looking forward", "split": "train"}
+{"clip_id": "normal_driving_5", "file": "data/clips/normal_driving_5.mp4", "label": "simple", "description": "calm, eyes on road", "split": "train"}
+{"clip_id": "distraction_phone_1", "file": "data/clips/distraction_phone_1.mp4", "label": "complex_intent", "description": "driver looking down at phone", "split": "train"}
+{"clip_id": "distraction_phone_2", "file": "data/clips/distraction_phone_2.mp4", "label": "complex_intent", "description": "driver reaching for phone", "split": "train"}
+{"clip_id": "distraction_radio_1", "file": "data/clips/distraction_radio_1.mp4", "label": "complex_intent", "description": "driver reaching for radio", "split": "train"}
+{"clip_id": "distraction_eating_1", "file": "data/clips/distraction_eating_1.mp4", "label": "complex_intent", "description": "driver eating while driving", "split": "train"}
+{"clip_id": "distraction_talk_1", "file": "data/clips/distraction_talk_1.mp4", "label": "complex_intent", "description": "driver turned to talk to passenger", "split": "train"}
+{"clip_id": "fatigue_yawn_1", "file": "data/clips/fatigue_yawn_1.mp4", "label": "complex_intent", "description": "driver yawning, fatigue detected", "split": "train"}
+{"clip_id": "fatigue_yawn_2", "file": "data/clips/fatigue_yawn_2.mp4", "label": "complex_intent", "description": "driver head nodding, fatigue detected", "split": "train"}
+{"clip_id": "fatigue_blink_1", "file": "data/clips/fatigue_blink_1.mp4", "label": "complex_intent", "description": "slow heavy blinking, fatigue detected", "split": "train"}
+{"clip_id": "fatigue_head_1", "file": "data/clips/fatigue_head_1.mp4", "label": "complex_intent", "description": "head tilting, fatigue detected", "split": "train"}
+{"clip_id": "fatigue_eyes_1", "file": "data/clips/fatigue_eyes_1.mp4", "label": "complex_intent", "description": "eyes closing, fatigue detected", "split": "train"}
+{"clip_id": "gesture_vent_1", "file": "data/clips/gesture_vent_1.mp4", "label": "complex_intent", "description": "driver pointing at AC vent", "split": "train"}
+{"clip_id": "gesture_window_1", "file": "data/clips/gesture_window_1.mp4", "label": "complex_intent", "description": "driver pointing at window", "split": "test"}
+{"clip_id": "gesture_hud_1", "file": "data/clips/gesture_hud_1.mp4", "label": "complex_intent", "description": "driver gesturing at HUD", "split": "test"}
+{"clip_id": "gesture_volume_1", "file": "data/clips/gesture_volume_1.mp4", "label": "complex_intent", "description": "driver reaching for volume", "split": "test"}
+{"clip_id": "gesture_temperature_1", "file": "data/clips/gesture_temperature_1.mp4", "label": "complex_intent", "description": "driver pointing at temperature control", "split": "test"}
